@@ -37,9 +37,7 @@ node_modules
 # Visual Studios Code
 .vscode
 
-# Babel Build
-lib
-
 # UMD Build
-dist
 example/static
+src
+tests
